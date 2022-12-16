@@ -1,0 +1,18 @@
+
+
+
+1- Bitmap Project source used
+	https://dyclassroom.com/csharp-project/how-to-convert-a-color-image-into-grayscale-image-in-csharp-using-visual-studio
+
+	https://softwarebydefault.com/2013/03/03/colomatrix-image-filters/
+
+2- Look an Say Project source used
+	https://stackoverflow.com/questions/46479370/look-and-say-sequence
+	https://codereview.stackexchange.com/questions/240936/sum-of-look-and-say-sequence
+
+3- Possibility of a Word  Project source used
+	https://stackoverflow.com/questions/46479370/look-and-say-sequence
+	https://www.sololearn.com/discuss/738225/challenge-look-and-say-sequence
+4- Sum Of Triangle ( "Sum of Triangle Angle I classified it into classes using Single Resposibility from the SOLID Preminsiples.")
+	https://stackoverflow.com/questions/44050547/maximum-path-sum-in-a-triangle-with-prime-number-check
+	https://codereview.stackexchange.com/questions/163665/maximum-path-sum-in-a-triangle-with-prime-number-check
